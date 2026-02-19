@@ -1,22 +1,19 @@
-# task1
-#Task 1: Perform Basic Mathematical Operations
-x=float(input("enter the first number"))
-y=float(input("enter the second number"))
+# Python Assignment
 
-add = x+y
-sub = x-y
-mul = x*y
-div = x/y
-print("The addition of x and y are", add)
-print("The subtraction of x and y are", sub)
-print("The Multiplication of x and y are", mul)
-print("The Division of x and y are", div)
+## Task 1 - Math Operations
+Takes two numbers and performs:
+- Addition
+- Subtraction
+- Multiplication
+- Division
 
+Run:
+python task1.py
 
+---
 
+## Task 2 - Greeting Program
+Takes first and last name and prints greeting.
 
-#task 2
-x=input("enter your first name")
-y=input("enter your last name")
-z= x +" "+ y
-print("hello", z ,"how are you , i wish your are fine")
+Run:
+python task2.py
